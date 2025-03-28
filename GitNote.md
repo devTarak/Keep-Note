@@ -85,7 +85,7 @@ git merge Tarak
 git fetch --all
 ```
 ```bash
-git merge <origin/remortBranchName>
+git merge <origin/remoteBranchName>
 ```
 
 ### If there are conflicts
