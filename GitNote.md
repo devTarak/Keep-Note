@@ -50,6 +50,12 @@ git checkout <remotebranch>
 ```bash
 git branch
 ```
+```bash
+git branch -r       # রিমোট ব্রাঞ্চ দেখাবে
+```
+```bash
+git branch -a       # সব ব্রাঞ্চ (লোকাল + রিমোট) দেখাবে
+```
 ### Delete Remote and Local Branch
 ```bash
 git branch -D branch-name  # লোকাল ব্রাঞ্চ ডিলিট  
