@@ -81,6 +81,12 @@ git checkout main
 ```bash
 git merge Tarak
 ```
+```bash
+git fetch --all
+```
+```bash
+git merge <origin/remortBranchName>
+```
 
 ### If there are conflicts
 যদি কনফ্লিক্ট থাকে:
