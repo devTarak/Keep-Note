@@ -50,6 +50,11 @@ git checkout <remotebranch>
 ```bash
 git branch
 ```
+### Delete Remote and Local Branch
+```bash
+git branch -D branch-name  # লোকাল ব্রাঞ্চ ডিলিট  
+git push origin --delete branch-name  # রিমোট ব্রাঞ্চ ডিলিট  
+```
 
 ## File and Status Management
 ### Check file update using Git
